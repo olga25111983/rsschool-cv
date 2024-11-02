@@ -1,5 +1,7 @@
 # OLGA ALEKSANDROVA
 
+![Avatar](https://myoctocat.com/assets/images/base-octocat.svg)
+
 *Minsk*
 
 *Age 40 years old*
@@ -27,3 +29,17 @@ Train on Kata from Codewars
     return a * b;
 
     }
+    
+    LANGUAGES
+
+_belorussian
+
+_russian
+
+_english level Pre-Intermediate 
+
+### CONTACTS
+
+*+375(29)310 19 21*
+*aliaksandrava.v@gmail.com*
+*Discord /olga25111983/*
